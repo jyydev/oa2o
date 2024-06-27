@@ -5,4 +5,4 @@ function oa2o(oa, key, valKey) {
   });
   return r;
 }
-module.exports = oa20;
+module.exports = oa2o;
