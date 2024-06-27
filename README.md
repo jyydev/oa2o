@@ -1,6 +1,6 @@
 # About
 
-[oa2o](https://www.npmjs.com/package/oa2o) (object array to array) is a simple npm module to convert iterative object array ( [{k:"a"}, {k:"b"}] ) to array ( {a:{k:"a"}, b:{k:"b"}} ):
+[oa2o](https://www.npmjs.com/package/oa2o) (object array to object) is a simple npm module to convert iterative object array ( [{k:"a"}, {k:"b"}] ) to object ( {a:{k:"a"}, b:{k:"b"}} ):
 
 ```
 let oa = [{k:"a"}, {k:"b"}];
